@@ -8,7 +8,7 @@ Image Captioning: Upload any image, and the AI model will generate a relevant ca
 User-Friendly Interface: The app uses Gradio to provide a simple and intuitive interface for interacting with the AI model.
 
 # Requirements
-The python version I used and the python libraries are all mentioned in the reuirements.txt file
+The python version I used and the python libraries are all mentioned in the "REQUIREMENTS.TXT" file
 
 # Code Overview
 The necessary libraries are imported
