@@ -46,6 +46,13 @@ title and description: these arguments store text which is displayed on the fron
 
 launch(share=True): This launches the interface and provides a public link for sharing.
 
+# Final Outcome
+![image](https://github.com/user-attachments/assets/8b1c7414-89fe-4e77-96c9-febd38fc5b18)
+
+![image](https://github.com/user-attachments/assets/eb3cce12-1a36-41fc-8ce2-56ef3bad7e1b)
+
+
+
 
 
 
