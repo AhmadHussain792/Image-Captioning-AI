@@ -12,9 +12,11 @@ The python version I used and the python libraries are all mentioned in the "REQ
 
 # Code Overview
 The necessary libraries are imported
+
 ![image](https://github.com/user-attachments/assets/b4450a10-0aeb-4f50-be7a-de543f6faf04)
 
 A pre-trained model is loaded from Hugging Face model hub
+
 ![image](https://github.com/user-attachments/assets/ea6a7035-fa4f-4d06-a5eb-b56ca3a0d204)
 
 - AutoProcessor: This is responsible for processing the input image and text, converting them into a format that the model can understand.
@@ -22,6 +24,7 @@ A pre-trained model is loaded from Hugging Face model hub
 - BlipForConditionalGeneration: This is the actual image captioning model that generates captions based on the processed input.
 
 Image Captioning function 
+
 ![image](https://github.com/user-attachments/assets/c656e183-c22b-459c-afc9-5b4d0fbc98f0)
 
 - input_image: the image is taken in the form of a NumPy array which is how images are typically represented in python.
