@@ -1,4 +1,4 @@
-# Image-Captioning-AI
+# Image Captioning AI
 
 This repository contains a simple Gradio web application that generates captions for uploaded images using a pretrained AI model. The application leverages the Salesforce BLIP (Bootstrapping Language-Image Pre-training) model to generate descriptive captions for images.
 
